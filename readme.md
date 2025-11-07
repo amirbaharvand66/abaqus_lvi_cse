@@ -1,4 +1,4 @@
-# *[Low-Velocity Impact Modeling of Fiber-Reinforced Composites Using Shell Elements: A Benchmark Study]()*
+# *[Low-Velocity Impact Modeling of Fiber-Reinforced Composites Using Shell Elements: A Benchmark Study](https://www.mdpi.com/2504-477X/9/11/587)*
 
 Use any terminal and load the following command to recover Abaqus jnl files without compatibility issues:
 
@@ -15,3 +15,4 @@ Replace `<file_name>` with appropriate jnl file.
 | case245       |     \#5    |         3.416         |        35.00       |           16.0           |          12.00          | TENAX-E HTS40 F13 12K/RTM 6 | *[Link](https://www.sciencedirect.com/science/article/abs/pii/S1359836819363589?via%3Dihub)* |
 
 ## Cite (APA Style)
+Baharvand, A., & Verma, A. S. (2025). Low-Velocity Impact Modeling of Fiber-Reinforced Composites Using Shell Elements: A Benchmark Study. Journal of Composites Science, 9(11), 587. *[https://doi.org/10.3390/jcs9110587](https://doi.org/10.3390/jcs9110587)*
